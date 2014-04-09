@@ -1,4 +1,4 @@
-PRODUCT_COPY_FILES += \ += \
+PRODUCT_COPY_FILES += \
     vendor/google/gapps/system/addon.d/70-gapps.sh:system/addon.d/70-gapps.sh \
     vendor/google/gapps/system/app/GoogleContactsSyncAdapter.apk:system/app/GoogleContactsSyncAdapter.apk \
     vendor/google/gapps/system/etc/permissions/com.google.android.maps.xml:system/etc/permissions/com.google.android.maps.xml \
