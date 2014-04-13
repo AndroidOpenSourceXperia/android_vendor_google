@@ -1,6 +1,8 @@
 PRODUCT_COPY_FILES += \
     vendor/google/gapps/system/addon.d/70-gapps.sh:system/addon.d/70-gapps.sh \
+    vendor/google/gapps/system/addon.d/78-calendarsync.sh.sh:system/addon.d/78-calendarsync.sh \
     vendor/google/gapps/system/app/GoogleContactsSyncAdapter.apk:system/app/GoogleContactsSyncAdapter.apk \
+    vendor/google/gapps/system/app/GoogleCalendarSyncAdapter.apk:system/app/GoogleCalendarSyncAdapter.apk \
     vendor/google/gapps/system/etc/permissions/com.google.android.maps.xml:system/etc/permissions/com.google.android.maps.xml \
     vendor/google/gapps/system/etc/permissions/com.google.android.media.effects.xml:system/etc/permissions/com.google.android.media.effects.xml \
     vendor/google/gapps/system/etc/permissions/com.google.widevine.software.drm.xml:system/etc/permissions/com.google.widevine.software.drm.xml \
