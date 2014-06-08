@@ -1,6 +1,6 @@
 PRODUCT_COPY_FILES += \
     vendor/google/gapps/system/addon.d/70-gapps.sh:system/addon.d/70-gapps.sh \
-    vendor/google/gapps/system/addon.d/78-calendarsync.sh:system/addon.d/78-calendarsync.sh \
+    vendor/google/gapps/system/addon.d/74-calendarsync.sh:system/addon.d/74-calendarsync.sh \
     vendor/google/gapps/system/app/GmsCore.apk:system/app/GmsCore.apk \
     vendor/google/gapps/system/app/GoogleContactsSyncAdapter.apk:system/app/GoogleContactsSyncAdapter.apk \
     vendor/google/gapps/system/app/GoogleCalendarSyncAdapter.apk:system/app/GoogleCalendarSyncAdapter.apk \
@@ -19,6 +19,7 @@ PRODUCT_COPY_FILES += \
     vendor/google/gapps/system/lib/libgcastv2_support.so:system/lib/libgcastv2_support.so \
     vendor/google/gapps/system/lib/libjgcastservice.so:system/lib/libjgcastservice.so \
     vendor/google/gapps/system/lib/libjni_latinime.so:system/lib/libjni_latinime.so \
+    vendor/google/gapps/system/lib/libocrclient.so:system/lib/libocrclient.so \
     vendor/google/gapps/system/priv-app/GoogleBackupTransport.apk:system/priv-app/GoogleBackupTransport.apk \
     vendor/google/gapps/system/priv-app/GoogleFeedback.apk:system/priv-app/GoogleFeedback.apk \
     vendor/google/gapps/system/priv-app/GoogleLoginService.apk:system/priv-app/GoogleLoginService.apk \
