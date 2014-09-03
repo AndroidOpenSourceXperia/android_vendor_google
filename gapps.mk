@@ -27,4 +27,10 @@ PRODUCT_COPY_FILES += \
     vendor/google/gapps/system/priv-app/GoogleServicesFramework.apk:system/priv-app/GoogleServicesFramework.apk \
     vendor/google/gapps/system/priv-app/Phonesky.apk:system/priv-app/Phonesky.apk \
     vendor/google/gapps/system/priv-app/PrebuiltGmsCore.apk:system/priv-app/PrebuiltGmsCore.apk \
-    vendor/google/gapps/system/priv-app/SetupWizard.apk:system/priv-app/SetupWizard.apk
+    vendor/google/gapps/system/priv-app/SetupWizard.apk:system/priv-app/SetupWizard.apk \
+    vendor/google/gapps/system/etc/permissions/com.google.android.ble.xml:system/etc/permissions/com.google.android.ble.xml \
+    vendor/google/gapps/system/etc/permissions/com.google.android.camera2.xml:system/etc/permissions/com.google.android.camera2.xml \
+    vendor/google/gapps/system/framework/com.google.android.ble.jar:system/framework/com.google.android.ble.jar \
+    vendor/google/gapps/system/framework/com.google.android.camera2.jar:system/framework/com.google.android.camera2.jar \
+    vendor/google/gapps/system/lib/libconscrypt_gmscore_jni.so:system/lib/libconscrypt_gmscore_jni.so \
+    vendor/google/gapps/system/lib/libgmscore.so:system/lib/libgmscore.so
